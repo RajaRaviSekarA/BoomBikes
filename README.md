@@ -1,5 +1,5 @@
 # BoomBike - Bike sharing case study for MS - AI/ML
-> This is a case study for Multiple Linear Regression - a bike-sharing service for individuals on a short-term basis.
+> This is a case study for Multiple Linear Regression - a bike-sharing service for individuals on a short-term basis
 
 ## Table of Contents
 * [General Info](#general-information)
