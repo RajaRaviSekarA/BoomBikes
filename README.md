@@ -42,8 +42,8 @@ The Multiple Linear Regression model
 <!-- As the library versions keep on changing, it is recommended to mention the version of the library used in this project -->
 
 ## Acknowledgements
-I want to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT-Bangalore, and LJMU, UK.
-- This project was inspired by all the Professors who trained us during the Linear Regression module, namely.
+I want to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT-Bangalore, and LJMU, UK
+- This project was inspired by all the Professors who trained us during the Linear Regression module, namely
   - Dinesh J Babu - Professor, IIT-B
   - Mirza Rahim Baig - Lead BA
 
