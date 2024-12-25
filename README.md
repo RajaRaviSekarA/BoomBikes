@@ -10,7 +10,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Analyse the BoomBike data from 2018 and 2019
+- Analyse the BoomBikes data from 2018 and 2019
 - Understand the demand for shared bikes among the people
 - Factors affecting the demand for shared bikes in the American market
   - Which variables are significant in predicting the demand for shared bikes
