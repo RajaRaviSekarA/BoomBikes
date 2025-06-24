@@ -6,6 +6,7 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
+* [Contact](#Contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -17,16 +18,6 @@
   - How well do those variables describe the bike demands
   
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-The Multiple Linear Regression model
-- A Linear Regression model should be built based on the total number of bike rentals (casual / registered)
-- Split the data based on 70:30 ratio and evaluate the model Training dataset and Test dataset
-- Perform the R² score on the test dataset (R² and Adjusted R²)
-- Predict the value, Model building, and Evaluation
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Python Programming
@@ -41,16 +32,21 @@ The Multiple Linear Regression model
 
 <!-- As the library versions keep on changing, it is recommended to mention the version of the library used in this project -->
 
+## Conclusions
+The Multiple Linear Regression model
+- A Linear Regression model should be built based on the total number of bike rentals (casual / registered)
+- Split the data based on 70:30 ratio and evaluate the model Training dataset and Test dataset
+- Perform the R² score on the test dataset (R² and Adjusted R²)
+- Predict the value, Model building, and Evaluation
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 ## Acknowledgements
 I want to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT-Bangalore, and LJMU, UK
-- This project was inspired by all the Professors who trained us during the Linear Regression module, namely
-  - Dinesh J Babu - Professor, IIIT-B
-  - Mirza Rahim Baig - Lead BA
-
+- This project was inspired by all the Professors who trained us during the Linear Regression module, namely Dinesh J Babu - Professor, IIIT-B
 
 ## Contact
 Created by [@rajaravisekara] - feel free to contact me, Raja - Sr Architect - AI Cloud
-
 
 <!-- Optional -->
 <!-- ## License -->
